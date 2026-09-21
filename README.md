@@ -1,6 +1,6 @@
 ## César Rivas
 
-**AI Engineer en niawi tech** · Colombia · [bycesar.dev](https://bycesar.dev)
+**AI Engineer en [niawi tech](https://niawi.tech/)** · Colombia · [bycesar.dev](https://bycesar.dev)
 
 No vengo de ingeniería de software. Entré por la puerta de la automatización low-code — n8n, webhooks, pegar sistemas que no se hablaban entre ellos — y la IA me fue empujando hacia abajo en el stack hasta terminar escribiendo agentes, pipelines RAG y frontend. Sigo usando n8n todos los días: no lo veo como un escalón que se deja atrás, sino como la herramienta correcta para buena parte de los problemas reales de una empresa.
 
